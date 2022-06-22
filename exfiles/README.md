@@ -1,0 +1,1 @@
+Esta es la carpeta que contiene los *scripts* de la *TensorFlow Object Detection API* y otros recursos, en los que se sustenta el funcionamiento de la plataforma, se ruega no tocar su contenido.

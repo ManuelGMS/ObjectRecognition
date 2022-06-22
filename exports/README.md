@@ -1,0 +1,1 @@
+Esta es la carpeta destino donde usted deberá exportar los detectores entrenados y validados con *Dettool*.

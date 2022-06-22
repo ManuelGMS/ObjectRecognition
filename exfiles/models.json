@@ -1,0 +1,22 @@
+{
+    "ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8": {
+        "gpu_batch_size": 32,
+        "tpu_batch_size": 256,
+        "url": "http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8.tar.gz"
+    },
+    "ssd_mobilenet_v2_320x320_coco17_tpu-8": {
+        "gpu_batch_size": 64,
+        "tpu_batch_size": 512,
+        "url": "http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_320x320_coco17_tpu-8.tar.gz"
+    },
+    "faster_rcnn_resnet50_v1_640x640_coco17_tpu-8": {
+        "gpu_batch_size": 4,
+        "tpu_batch_size": 32,
+        "url": "http://download.tensorflow.org/models/object_detection/tf2/20200711/faster_rcnn_resnet50_v1_640x640_coco17_tpu-8.tar.gz"
+    },
+    "mask_rcnn_inception_resnet_v2_1024x1024_coco17_gpu-8": {
+        "gpu_batch_size": 2,
+        "tpu_batch_size": 0,
+        "url": "http://download.tensorflow.org/models/object_detection/tf2/20200711/mask_rcnn_inception_resnet_v2_1024x1024_coco17_gpu-8.tar.gz"
+    }
+}
